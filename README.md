@@ -4,12 +4,11 @@ A simple and responsive **BMI (Body Mass Index) Calculator** built using **HTML,
 
 ## 🚀 Features
 
-- 📏 Enter height in **centimeters (cm)**
-- ⚖️ Enter weight in **kilograms (kg)**
+- 📏 Enter your height in **centimeters (cm)**
+- ⚖️ Enter your weight in **kilograms (kg)**
 - ⚡ Instant BMI calculation
 - 📱 Responsive and clean user interface
 - 🎨 Beginner-friendly project with simple design
-- 💻 No external libraries or frameworks required
 
 ## 🛠️ Technologies Used
 
@@ -70,33 +69,15 @@ cd BMI-Calculator
 BMI = Weight (kg) / (Height (m) × Height (m))
 ```
 
-Example:
-
-```text
-Height = 170 cm = 1.70 m
-Weight = 65 kg
-
-BMI = 65 / (1.70 × 1.70)
-BMI = 22.49
-```
-
 ## 🌟 Future Improvements
 
 - BMI category with color indicators
 - Health recommendations based on BMI
 - Dark mode support
 - Input validation with better error messages
-- Save calculation history
 - Unit conversion (Feet/Inches & Pounds)
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to fork this repository and submit a pull request.
-
-## 📄 License
-
-This project is open source and available under the **MIT License**.
-
----
-
 ⭐ If you found this project helpful, don't forget to **star the repository**!
+
+Made by:- 
+Abhishek Karande.
